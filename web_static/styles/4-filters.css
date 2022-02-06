@@ -20,8 +20,11 @@
   float: right;
   font-size: 18px;
   height: 48px;
-  margin: 12px 30px;
+  margin-right: 30px;
   width: 20%;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 /* Search button hover opacity */
